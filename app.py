@@ -213,8 +213,8 @@ def main():
     if page == "主页":
         st.title("🏠 欢迎来到主页")
         st.write("这里展示一些概览信息，比如系统状态或总体统计。")
-        st.image("D:/BaiduSyncdisk/blcc/计算机小论文/figures/v3/graph abstract（2）.png")
-        st.image("C:/Users/pc/Pictures/1.jpg")
+        # st.image("D:/BaiduSyncdisk/blcc/计算机小论文/figures/v3/graph abstract（2）.png")
+        # st.image("C:/Users/pc/Pictures/1.jpg")
         # st.markdown(
         #     """
         #     ![图片标题](C:\Users\pc\Pictures\1.jpg)
